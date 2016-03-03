@@ -1,0 +1,16 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.hoolai.com/hoolai/sango/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.hoolai.com/hoolai/sango/" />
+        <option value="http://svn.hoolai.com/hoolai/sango/branches/qq_sango/sango-rc/huaTeng/0.1.1_1/huaTeng-fronted" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\installFile\SlikSvn\bin\svn.exe" />
+  </component>
+</application>
